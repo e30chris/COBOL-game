@@ -5,7 +5,7 @@ _Would you like to play a game?_
 # 🎮 Retro COBOL Guessing Game
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0IylOPCNkiq75v1s/giphy.gif" alt="WOPR Joshua Supercomputer" width="450"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjIzdm9zNHp4NW41ZWJ1NTlxemRib25mZnl0NzVuNHdrbGY5Z3U5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jjYGVvxgQSTsc/giphy.gif" alt="WOPR Joshua Supercomputer" width="450"/>
 </p>
 
 > *"A strange game. The only winning move is not to play. How about a nice game of chess?"* — Joshua / WOPR (1983)
